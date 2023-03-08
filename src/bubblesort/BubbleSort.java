@@ -1,4 +1,4 @@
-package Bubblesort;
+package bubblesort;
 
 // Program to sort using bubble sort
 public class BubbleSort {
